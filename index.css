@@ -1,0 +1,42 @@
+body{
+    background-color: #0e021a;
+}
+.form button{
+    font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #310062;
+  width: 10%;
+  border: 0;
+  padding: 10px;
+  color: #190d61;
+  font-size: 10px;
+  cursor: pointer;
+  justify-content: center;
+}
+.one {
+    
+  font-size: 28px;
+  padding: 8px;
+  justify-content: center;
+
+}
+.two{
+    
+  font-size: 28px;
+  padding: 0px; 
+}
+.three{
+    border-color: rgb(70, 73, 73);
+   
+  font-size: 28px;
+  padding: 0px; 
+}
+.four {
+  
+  font-size: 28px
+  padding: 8px; 
+}
+.h3 {
+  color: aliceblue;
+}
